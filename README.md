@@ -3,7 +3,7 @@
   I am a senior iOS engineer, focusing special attention to designing solutions to human problems that enable systems to scale.
 </p>
 <h1>What does that mean?</h1>
-  <p>With a background in design thinking, I ask questions to reveal opportunities experienced in everyday behaviors.</br>Mobile software engineers who develop and design systems apply deductive, inductive, and abductive logical reasoning about the code they interact with everyday. They add to the code and the code responds, forming various feedback loops for all interacting with the system. It's precisely these hidden cycles I seek to uncover.
+  <p>With a background in design thinking, I ask questions to reveal opportunities lurking in everyday experiences.</br>Mobile software engineers who develop and design systems apply deductive, inductive, and abductive logical reasoning about the code they interact with everyday. They add to the code and the code responds, forming various feedback loops for all interacting with the system. It's precisely these hidden cycles I seek to uncover.
   </p>
   <p>This is because feedback loops drive many scaling phenomena in the industry, including how network effects scale and why higher quality code paradoxically enables faster feature delivery. Once found, there's a simple formula for scaling these feedback loops:
   </p>
