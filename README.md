@@ -8,22 +8,20 @@
   <p>This is because feedback loops drive many scaling phenomena in the industry, including how network effects scale and why higher quality code paradoxically enables faster feature delivery. Once found, there's a simple formula for scaling these feedback loops:
   </p>
   <ul>
-    <li>Shorten iteration times</li>
-    <li>Reduce cognitive load</li>
-    <li>Validate feedback for coherence</li>
+    <li>Shortening iteration times</li>
+    <li>Reducing cognitive load</li>
+    <li>Validating feedback for coherence</li>
   </ul>
   <p>My goal is to help companies scale.</p>
 
 <h1>Where can I learn more?</h1>
 <table>
   <tr>
-    <td>
+    <th>
       <a href="https://www.kylewludwig.com" target="_blank" rel="noopener">
-        About Me
+        About me
       </a>
-    </td>
-    <td>
-    </td>
+    </th>
     <td>
       <a href="https://www.just4humans.com" target="_blank" rel="noopener">
         About 4Humans
@@ -38,10 +36,10 @@
 <p>
 <table>
   <tr>
-    <td>
+    <th>
       <a href="https://www.linktr.ee/kylewludwig" target="_blank" rel="noopener">
         Let's Talk
       </a>
-    </td>
+    </th>
   </tr>
 </table>
