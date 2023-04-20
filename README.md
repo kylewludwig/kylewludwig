@@ -43,3 +43,19 @@
     </th>
   </tr>
 </table>
+
+<h1>Stats</h1>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kylewludwig&show_icons=true&title_color=DBDBD5&text_color=DBDBD5&icon_color=DBDBD587&ring_color=DBDBD587&bg_color=000000&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kylewludwig&show_icons=true&title_color=000000&text_color=000000&icon_color=00000087&ring_color=00000087&bg_color=DBDBD5"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kylewludwig&show_icons=true"
+  />
+</picture>
