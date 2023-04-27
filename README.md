@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-<h1>Ready to work with me?</h1>
+<h1>Ready to work together?</h1>
 <p>
   Contact me to discuss how I can help you realise your vision.
 <p>
